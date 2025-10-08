@@ -4,7 +4,7 @@ This project serves as the foundational deliverable for the Google Cybersecurity
 Project Artifact
 The complete Professional Statement and Cybersecurity Persona is available for review:
 
-Professional Persona Document (PDF)
+Professional_Persona.pdf
 
 Skills Demonstrated
 Professional Identity & Communication: Defining a clear, competitive professional pitch that merges academic and technical achievements.
