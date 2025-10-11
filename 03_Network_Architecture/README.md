@@ -5,13 +5,11 @@ Deliverables
 1. Security Architecture Design Report
 This report outlines the proposed secure network architecture, moving from a vulnerable flat topology to a resilient, segmented, Zero Trust model. It details the placement and justification for security controls, including NGFW, DMZ, VLANs, SIEM, and ZTNA.
 
-Security Architecture Design Report (PDF)
 * [**Security Architecture Design Report (PDF)**](Security_Architecture_Report.pdf)
 
 2. Incident Report Analysis (NIST CSF)
 An analysis of the DDoS incident, detailing the attack, cause, and impact. It uses the NIST CSF (Identify, Protect, Detect, Respond, Recover) to structure a comprehensive action plan for preventing recurrence.
 
-NIST CSF Incident Report Analysis (PDF)
 * [**NIST CSF Incident Report Analysis (PDF)**](Incident_Report_Analysis.pdf)
 
 Key Skills Demonstrated
